@@ -1,6 +1,6 @@
 # Galaxy Transition Analysis
 
-A data analysis project exploring how galaxies transition from actively forming stars to becoming "quiescent" (no longer forming stars). This project was completed as part of my Computer Science coursework to practice data analysis and visualization skills.
+A data analysis project exploring how galaxies transition from actively forming stars to becoming "quiescent" (no longer forming stars). This project was completed to practice data analysis and visualization skills.
 
 ---
 
